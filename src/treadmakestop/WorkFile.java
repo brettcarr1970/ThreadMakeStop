@@ -47,7 +47,7 @@ public class WorkFile {
                 frame.add(new WorkerGui());
                 frame.pack();
                 frame.setLocationRelativeTo(null);
-                frame.setSize(415, 250);
+                frame.setSize(405, 250);
                 frame.setResizable(false);
                 frame.setVisible(true);
 
